@@ -1,0 +1,32 @@
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+section {
+    height: 100vh;
+    background-color: #fff;
+    padding-top: 70px;
+}
+
+header {
+    top: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.col {
+    max-width: 50%;
+}
+
+.col > h2 {
+    padding: 8px 0;
+}
+
+.space {
+    margin-bottom: 16px;
+}
+
